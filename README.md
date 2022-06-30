@@ -12,3 +12,4 @@
 ## Deployment
 
 ### Live URL
+https://pujak-quiz-app.netlify.app/
